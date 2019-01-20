@@ -3,7 +3,7 @@ public class test{
         int[] myarray = new int[5];
         for(int y=2; y<=10; y=y+2){
             myarray[((y-2)/2)] = y;
-            System.out.println(y);
+           // System.out.println(y);
         }
 
         for(int i  = 0; i <5; i++){
